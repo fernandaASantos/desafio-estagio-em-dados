@@ -20,7 +20,7 @@ Outra forma de executar o código, necessita que você tenha o python instalado 
 1) Acesse o link: https://www.kaggle.com/fernandasantos98/desafio-est-gio-em-dados/notebook
 2) No lado direito da página clique no 3 pontinhos ao lado de "Copy & Edit"
 3) Clique em "Download code"
-4) Após executar o download do arquivo, basta abri-lo na sua IDE de preferência (desde que esta esteja apta a rodar códigos em python)
+4) Após realizar o download do arquivo, basta abri-lo na IDE de sua preferência (lembrando que é necessário ter o python e o interpretador instalados no seu computador para rodar códigos em python)
 5) Procure pela opção "Run All" e execute
 6) Pronto! :)
 
