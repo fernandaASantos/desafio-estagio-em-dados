@@ -24,3 +24,6 @@ Outra forma de executar o código, necessita que você tenha o python instalado 
 5) Procure pela opção "Run All" e execute
 6) Pronto! :)
 
+Caso nenhuma das opções acima funcione, você pode visualizar tudo o que foi feito acessando o projeto aqui no GitHub mesmo.
+https://github.com/fernandaASantos/desafio-estagio-em-dados/blob/main/desafio-estagio-em-dados.ipynb
+
